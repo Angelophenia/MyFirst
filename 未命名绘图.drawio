@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-07T03:32:19.996Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="Mx_6vrpT2IjyCpBfN0Uu" version="20.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-07T04:25:30.386Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="gLspkLOzFbJVXfZFwBNy" version="20.2.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1071" dy="1046" grid="1" gridSize="16" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2163" dy="1089" grid="1" gridSize="16" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -34,10 +34,10 @@
         <mxCell id="ZTRkR6zl245Vi-cVcXeP-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=16;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZTRkR6zl245Vi-cVcXeP-10" target="ZTRkR6zl245Vi-cVcXeP-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZTRkR6zl245Vi-cVcXeP-10" value="对称加密的&lt;br&gt;会话密钥" style="rounded=0;whiteSpace=wrap;html=1;comic=1;arcSize=12;imageHeight=24;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="ZTRkR6zl245Vi-cVcXeP-10" value="对称加密的&lt;br&gt;会话密钥" style="rounded=0;whiteSpace=wrap;html=1;comic=1;arcSize=12;imageHeight=24;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="576" y="432" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZTRkR6zl245Vi-cVcXeP-11" value="对称加密的&lt;br&gt;会话密钥" style="rounded=0;whiteSpace=wrap;html=1;comic=1;arcSize=12;imageHeight=24;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="ZTRkR6zl245Vi-cVcXeP-11" value="对称加密的&lt;br&gt;会话密钥" style="rounded=0;whiteSpace=wrap;html=1;comic=1;arcSize=12;imageHeight=24;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="192" y="432" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZTRkR6zl245Vi-cVcXeP-15" value="公钥加密" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -90,13 +90,13 @@
         <mxCell id="ZTRkR6zl245Vi-cVcXeP-35" value="加密文件" style="rounded=0;whiteSpace=wrap;html=1;comic=1;arcSize=12;imageHeight=24;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="192" y="768" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZTRkR6zl245Vi-cVcXeP-37" value="会话密钥加密" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="ZTRkR6zl245Vi-cVcXeP-37" value="会话密钥加密" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontFamily=Helvetica;fontColor=#B266FF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="68" y="768" width="128" height="32" as="geometry" />
         </mxCell>
         <mxCell id="ZTRkR6zl245Vi-cVcXeP-38" value="&lt;ol style=&quot;box-sizing: inherit; margin: 0px; padding: 0px 0px 0px 2em; list-style: decimal; color: rgb(64, 64, 64); font-family: Arial, &amp;quot;Hiragino Sans GB&amp;quot;, STHeiti, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;Microsoft Yahei&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;li style=&quot;box-sizing: inherit; margin: 0px; padding: 0px; list-style: inherit;&quot; id=&quot;11A4P6TB&quot;&gt;客户端先从服务器获取到证书，证书中包含公钥&lt;/li&gt;&lt;li style=&quot;box-sizing: inherit; margin: 0px; padding: 0px; list-style: inherit;&quot; id=&quot;11A4P6TC&quot;&gt;客户端将证书进行校验&lt;/li&gt;&lt;li style=&quot;box-sizing: inherit; margin: 0px; padding: 0px; list-style: inherit;&quot; id=&quot;11A4P6TD&quot;&gt;客户端生成一个对称密钥，用证书中的公钥进行加密，发送给服务器&lt;/li&gt;&lt;li style=&quot;box-sizing: inherit; margin: 0px; padding: 0px; list-style: inherit;&quot; id=&quot;11A4P6TE&quot;&gt;服务器得到这个请求后用私钥进行解密，得到该密钥&lt;/li&gt;&lt;li style=&quot;box-sizing: inherit; margin: 0px; padding: 0px; list-style: inherit;&quot; id=&quot;11A4P6TF&quot;&gt;客户端以后发出后续的请求，都使用这个对称密钥进行加密。&lt;/li&gt;&lt;li style=&quot;box-sizing: inherit; margin: 0px; padding: 0px; list-style: inherit;&quot; id=&quot;11A4P6TG&quot;&gt;服务器收到这个密文也用这个密钥进行解密。&lt;/li&gt;&lt;/ol&gt;" style="text;whiteSpace=wrap;html=1;fontSize=16;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="212" y="48" width="588" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ZTRkR6zl245Vi-cVcXeP-39" value="校验证书" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="ZTRkR6zl245Vi-cVcXeP-39" value="校验证书" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=16;fontFamily=Helvetica;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="480" y="316" width="96" height="32" as="geometry" />
         </mxCell>
         <mxCell id="ZTRkR6zl245Vi-cVcXeP-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=16;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZTRkR6zl245Vi-cVcXeP-40" target="ZTRkR6zl245Vi-cVcXeP-43">
@@ -105,7 +105,7 @@
         <mxCell id="ZTRkR6zl245Vi-cVcXeP-40" value="原文" style="rounded=0;whiteSpace=wrap;html=1;comic=1;arcSize=12;imageHeight=24;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="576" y="768" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZTRkR6zl245Vi-cVcXeP-42" value="会话密钥解密" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="ZTRkR6zl245Vi-cVcXeP-42" value="会话密钥解密" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontFamily=Helvetica;fontColor=#B266FF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="448" y="768" width="128" height="32" as="geometry" />
         </mxCell>
         <mxCell id="ZTRkR6zl245Vi-cVcXeP-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;fontSize=16;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZTRkR6zl245Vi-cVcXeP-43" target="ZTRkR6zl245Vi-cVcXeP-46">
@@ -117,8 +117,14 @@
         <mxCell id="ZTRkR6zl245Vi-cVcXeP-45" value="哈希" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="632" y="828" width="64" height="32" as="geometry" />
         </mxCell>
+        <mxCell id="ZTRkR6zl245Vi-cVcXeP-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=16;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZTRkR6zl245Vi-cVcXeP-46" target="ZTRkR6zl245Vi-cVcXeP-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ZTRkR6zl245Vi-cVcXeP-46" value="是否相同" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontFamily=Helvetica;fontSize=16;fontColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="752" y="752" width="128" height="64" as="geometry" />
+          <mxGeometry x="752" y="766" width="128" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="ZTRkR6zl245Vi-cVcXeP-49" value="内容是否篡改" style="rounded=0;whiteSpace=wrap;html=1;comic=1;arcSize=12;imageHeight=24;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="928" y="768" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
